@@ -1,1 +1,1 @@
-# ssh_bruteforce
+just change username(root maybe) and host .
